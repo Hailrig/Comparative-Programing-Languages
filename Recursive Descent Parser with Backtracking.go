@@ -1,4 +1,4 @@
-package main //By Lucas Harvey, student number 192742
+package main //By Lucas Harvey
 
 import (
 	"bufio"
